@@ -16,7 +16,7 @@ struct ContentView: View {
             CardView()
         }
         
-            .foregroundColor(.orange)
+            .foregroundColor(.red)
             .padding()
     }
 }
